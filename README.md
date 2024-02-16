@@ -74,25 +74,30 @@ Editar e Excluir Cartões de Crédito
 
 # Requisitos Não-Funcionais:
 
-### **Desempenho** 
+### **Desempenho:** 
+
+Tempo de respostas
+
+Escalabilidade
+
+Disponibilidade
 
 
-**Escalabilidade**	
+### **Segurança:**
+
+Proteção de Dados
+
+Pagamentos Seguros
 
 
-### **Segurança**
+### **Manutenabilidade:**
 
-**Proteção de Dados**
-
-
-**Pagamentos Seguros**
+Facilidade de Manutenção
 
 
-### **Manutenabilidade**
+### **Escalabilidade:**
 
-
-### **Escalabilidade**
-
+Capacidade de Crescimento
 
 
 ## **O que é o sistema que será desenvolvido?**
@@ -109,7 +114,3 @@ Resolver o problema da conveniência e praticidade para clientes que desejam com
 [FloresOnline](https://www.floresonline.com.br/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJFjQbfBxu0mtPiFksYHV9c0ADnpaNM6z-g8VRpOlNCdhr1MFfDHBwBoCmPUQAvD_BwE) 
 
 [IsaFlores](https://www.isabelaflores.com/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJHeJ6liw2UP21ZLyE1Ntb_1SGBRUaxGIdUVnuZp6GcI5SP0kyDnOWBoCehkQAvD_BwE
-) 
-
-
-
