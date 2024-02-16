@@ -76,39 +76,22 @@ Editar e Excluir Cartões de Crédito
 
 ### **Desempenho:** 
 
-_**Tempo de Resposta:**_
-O tempo de resposta do e-commerce deve ser rápido, com páginas carregando em menos de 3 segundos.
-
 
 **_Escalabilidade:_**	
-O e-commerce deve ser capaz de lidar com um grande número de acessos simultâneos sem apresentar problemas de desempenho.
 
-_**Disponibilidade:**_
-e-commerce deve estar disponível 24 horas por dia, 7 dias por semana.
 
 ### **Segurança:**
 
 **_Proteção de Dados:_**
-Os dados dos clientes devem ser protegidos contra acesso não autorizado, uso indevido e divulgação.
-O e-commerce deve estar em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD).
+
 
 **_Pagamentos Seguros:_**
-As transações financeiras devem ser realizadas em um ambiente seguro.
-O e-commerce deve utilizar criptografia para proteger os dados dos cartões de crédito dos clientes.
+
 
 ### **Manutenabilidade:**
 
-**_Facilidade de Manutenção:_**
-O e-commerce deve ser fácil de manter e atualizar.
-A plataforma de e-commerce deve fornecer ferramentas para gerenciar o conteúdo, produtos e pedidos.
 
 ### **Escalabilidade:**
-**_Capacidade de Crescimento:_**
-O e-commerce deve ser capaz de crescer junto com o seu negócio.
-A plataforma de e-commerce deve ser capaz de lidar com um aumento no número de produtos, clientes e pedidos.
-
-
-
 
 
 
