@@ -74,24 +74,24 @@ Editar e Excluir Cartões de Crédito
 
 # Requisitos Não-Funcionais:
 
-### **Desempenho:** 
+### **Desempenho** 
 
 
-**_Escalabilidade:_**	
+**Escalabilidade**	
 
 
-### **Segurança:**
+### **Segurança**
 
-**_Proteção de Dados:_**
-
-
-**_Pagamentos Seguros:_**
+**Proteção de Dados**
 
 
-### **Manutenabilidade:**
+**Pagamentos Seguros**
 
 
-### **Escalabilidade:**
+### **Manutenabilidade**
+
+
+### **Escalabilidade**
 
 
 
