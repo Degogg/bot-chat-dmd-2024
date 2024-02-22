@@ -84,32 +84,26 @@ O tempo de resposta do e-commerce deve ser rápido, com páginas carregando em m
 O e-commerce deve ser capaz de lidar com um grande número de acessos simultâneos sem apresentar problemas de desempenho.
 
 _**Disponibilidade:**_
-E-commerce deve estar disponível 24 horas por dia, 7 dias por semana.
+e-commerce deve estar disponível 24 horas por dia, 7 dias por semana.
 
 ### **Segurança.**
 
-**_Proteção de Dados:_**
-Os dados dos clientes devem ser protegidos contra acesso não autorizado, uso indevido e divulgação.
-O e-commerce deve estar em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD).
+Proteção de Dados
 
-**_Pagamentos Seguros:_**
-As transações financeiras devem ser realizadas em um ambiente seguro.
-O e-commerce deve utilizar criptografia para proteger os dados dos cartões de crédito dos clientes.
+Pagamentos Seguros
+
 
 ### **Manutenabilidade.**
 
-**_Facilidade de Manutenção:_**
-O e-commerce deve ser fácil de manter e atualizar.
-A plataforma de e-commerce deve fornecer ferramentas para gerenciar o conteúdo, produtos e pedidos.
+Facilidade de Manutenção
 
-### **Escalabilidade.**
+
+### **Escalabilidade:**
 **_Capacidade de Crescimento:_**
 O e-commerce deve ser capaz de crescer junto com o seu negócio.
 A plataforma de e-commerce deve ser capaz de lidar com um aumento no número de produtos, clientes e pedidos.
 
-
-
-
+Capacidade de Crescimento
 
 
 ## **O qual sistema que será desenvolvido?**
@@ -125,8 +119,8 @@ Resolver o problema da conveniência e praticidade para clientes que desejam com
 
 [FloresOnline](https://www.floresonline.com.br/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJFjQbfBxu0mtPiFksYHV9c0ADnpaNM6z-g8VRpOlNCdhr1MFfDHBwBoCmPUQAvD_BwE) 
 
-[IsaFlores](https://www.isabelaflores.com/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJHeJ6liw2UP21ZLyE1Ntb_1SGBRUaxGIdUVnuZp6GcI5SP0kyDnOWBoCehkQAvD_BwE)
-
+[IsaFlores](https://www.isabelaflores.com/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJHeJ6liw2UP21ZLyE1Ntb_1SGBRUaxGIdUVnuZp6GcI5SP0kyDnOWBoCehkQAvD_BwE
+) 
 
 
 
