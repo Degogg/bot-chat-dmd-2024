@@ -90,14 +90,14 @@ e-commerce deve estar disponível 24 horas por dia, 7 dias por semana.
 
 ### **Segurança.**
 
-Proteção de Dados
+Proteção de Dados dos usuários do sistema.
 
-Pagamentos Seguros
+Pagamentos Seguros, sendo os dados dos usuários criptografados e bem guardados no banco de dados.
 
 
 ### **Manutenabilidade.**
 
-Facilidade de Manutenção
+Facilidade de Manutenção, não é complexo para se manter ativo.
 
 
 ### **Escalabilidade:**
@@ -105,7 +105,6 @@ Facilidade de Manutenção
 O e-commerce deve ser capaz de crescer junto com o seu negócio.
 A plataforma de e-commerce deve ser capaz de lidar com um aumento no número de produtos, clientes e pedidos.
 
-Capacidade de Crescimento
 
 
 ## **O qual sistema que será desenvolvido?**
